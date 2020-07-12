@@ -1,0 +1,20 @@
+= sapphichours
+
+The core plugin of the Sapphic Hours Minecraft server.
+
+== Build
+
+Requirements:
+
+. Java 8-14 JDK
+
+Method:
+
+. `./gradlew shadowJar`
+. Find the jars in `./build/libs`.
+
+== Usage
+
+Put the jar in the **Paper** server's `plugins` directory.
+
+This requires a Paper server, or a derivative thereof.

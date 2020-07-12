@@ -1,0 +1,5 @@
+name: SapphicHours
+version: 0.1.0
+author: Proximyst
+main: com.proximyst.sapphichours.SapphicHoursPlugin
+api-version: '1.16'
